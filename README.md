@@ -39,6 +39,7 @@ if complain_bot.down < 100 and complain_bot.up < 100:
 else:
     print("Internet speed is fine. No need to complain")
     exit()
+```
 
 ## Disclaimer
 
